@@ -463,4 +463,4 @@ app.listen(PORT, () => {
 });
 
 // Start the bot
-client.login(process.env.DISCORD_TOKEN); 
+client.login(process.env.MTM5MTc2NjQzODgyMTIzNjg4Nw.GOhHtw.bHNp4jbu_QWW1uNxa1HW-ajgq7VOsVACkF-AFI); 
